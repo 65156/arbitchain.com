@@ -1,6 +1,6 @@
 const newText = document.getElementById("newText");
 
-fetch('test.txt')
+fetch('portfolio.txt')
   .then((res) => {
     return res.text();
   })
