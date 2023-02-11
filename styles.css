@@ -48,7 +48,7 @@ body {
     font-size: .8rem;
     position: fixed;
     bottom: 0;
-    padding: .5rem;
+    /*padding: .5rem;*/
     border-style: none;
     text-transform: none;
     background-color: #ffffffa5;
@@ -61,5 +61,27 @@ body {
     padding-bottom: .2rem;
 }
 
+@media only screen and (max-width: 500px) {
 
-
+    #main {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        border-style: none;
+        background-color: #ffffffa5;
+        margin-left: .5rem;
+        margin-right: 2rem;
+        margin-bottom: 1rem;    
+        padding-left: .5rem;
+        padding-right: .5rem;
+        padding-top: .2rem;
+        padding-bottom: .2rem;
+        position : relative;    
+    }
+    
+    #newText {
+        font-size: 1.2rem;
+        font-weight: bold;
+        line-height: 80%;
+        text-transform: uppercase;
+    }
+}
