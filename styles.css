@@ -66,6 +66,7 @@ body {
     #main {
         width: 90%;
         align-content: center;
+        position: static;
         font-size: 1.7rem;
         margin-right: 2%;
         margin-left: 2%;
@@ -79,7 +80,7 @@ body {
     #footer { 
         width: 90%;
         align-content: center;
-        position: relative;
+        position: static;
         margin-right: 2%;
         margin-left: 2%;
         
