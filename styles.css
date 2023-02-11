@@ -64,25 +64,13 @@ body {
 @media only screen and (max-width: 500px) {
 
     #main {
-        font-size: 1.7rem;
-        text-transform: uppercase;
-        border-style: none;
-        background-color: #ffffffa5;
-        margin-left: .5rem;
-        margin-right: .5rem;
-        margin-bottom: 1rem;    
-        padding-left: .5rem;
-        padding-right: .5rem;
-        padding-top: .2rem;
-        padding-bottom: .2rem;
-        position : relative;    
+        font-size: 1.5rem;
+        margin-right: .5rem; 
     }
     
     #newText {
-        font-size: 1.7rem;
-        font-weight: bold;
-        line-height: 80%;
-        text-transform: uppercase;
+        font-size: 1.5rem;
+
     }
 
     #footer { 
