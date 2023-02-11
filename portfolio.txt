@@ -1,16 +1,16 @@
 Ethereum 
 Optimism 
+ENS 
+0x 
 Flow
-Omisego
-Request 
-Perpetual Protocol
-Streamr
 Dovu
-Uniswap 
-Powerledger 
 Perlin 
 Celer 
 Raiden
-ENS 
-0x 
+Omisego
+Request 
+Streamr
+Uniswap 
+Perpetual Protocol
+
 
