@@ -45,8 +45,8 @@ body {
 
 #footer {
     font-size: .8rem;
+    position: fixed;
     bottom: 0;
-    padding: .5rem;
     border-style: none;
     text-transform: none;
     background-color: #ffffffa5;
@@ -76,12 +76,9 @@ body {
 
     #footer { 
         width: 90%;
-        padding: 0rem;
         align-content: center;
         margin-right: 2%;
         margin-left: 2%;
-        
-
     }
 
 }
