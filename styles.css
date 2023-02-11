@@ -79,6 +79,7 @@ body {
     #footer { 
         width: 90%;
         align-content: center;
+        position: relative;
         margin-right: 2%;
         margin-left: 2%;
         
