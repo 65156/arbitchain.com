@@ -1,16 +1,20 @@
+Bitcoin
 Ethereum 
-Optimism 
-ENS 
+Gnosis
+XRP
 0x 
-Flow
-Dovu
-Perlin 
+Dovu 
 Celer 
-Raiden
-Omisego
 Request 
 Streamr
 Uniswap 
-Perpetual Protocol
+Numbers
+Perpetual
+Across
+Loopring
+Spankchain
+Powerledger
+Handshake
+Balancer
 
 
